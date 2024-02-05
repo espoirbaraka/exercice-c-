@@ -1,15 +1,14 @@
 #include <iostream>
-
 using namespace std;
+int main() {
+    int n;
+    cout<<"Saisi un nombre"<<endl;
+    cin>>n;
 
-int main()
-{
-    int saisi;
-    int factoriel=1;
-    cout<<"SAISI UN NOMBRE"<<endl;
-    cin>>saisi;
-    for(int i=1;i<=saisi;i++){
-        factoriel=factoriel*i;
+    double harmonique=0.0;
+    for(int i=1; i<=n; i++){
+        harmonique=harmonique+(1.0/i);
     }
-    cout<<factoriel;
+    cout<<harmonique;
+
 }
