@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707298369 source:e:\exercice-c-\2024\arme2\main.cpp
+	<iostream>
+	<Arme_feu.h>
+
+1707298369 e:\exercice-c-\2024\arme2\include\arme_feu.h
+	<iostream>
+

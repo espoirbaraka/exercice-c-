@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707298589 source:e:\exercice-c-\2024\animal2\main.cpp
+	<iostream>
+	<Animal.h>
+
+1707298643 e:\exercice-c-\2024\animal2\include\animal.h
+	<iostream>
+
+1707298515 source:e:\exercice-c-\2024\animal2\src\animal.cpp
+	"Animal.h"
+
