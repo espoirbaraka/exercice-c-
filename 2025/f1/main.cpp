@@ -23,5 +23,5 @@ float calculatrice(float nbre1, float nbre2, char signe){
 
 int main()
 {
-    cout<<calculatrice(12, 2, '(');
+    cout<<calculatrice(12, 2, '+');
 }
